@@ -7,6 +7,8 @@
 
 This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
 
+Link : https://quickchat-12-10-2023.netlify.app/ 
+
 Features : 
 
 1.Can chat with one and many people at same time .
